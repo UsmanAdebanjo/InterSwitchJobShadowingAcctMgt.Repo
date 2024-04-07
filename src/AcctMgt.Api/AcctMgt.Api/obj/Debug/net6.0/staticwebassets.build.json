@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "BykdxtC2i9qN3PhzZZTmDAr440FlKp700fWngdesQmQ=",
+  "Source": "AcctMgt.Api",
+  "BasePath": "_content/AcctMgt.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
